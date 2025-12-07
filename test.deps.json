@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "test/1.0.0": {
+        "dependencies": {
+          "FastColoredTextBox.Net6": "1.0.0"
+        },
+        "runtime": {
+          "test.dll": {}
+        }
+      },
+      "FastColoredTextBox.Net6/1.0.0": {
+        "runtime": {
+          "lib/net6.0-windows7.0/FastColoredTextBox.dll": {
+            "assemblyVersion": "2.16.26.0",
+            "fileVersion": "2.16.26.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FastColoredTextBox.Net6/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tG7W1g74lddhHiJfrctCY5j6dNUskUc9CXFo3HG3A7u1JqzveUF5sRqSyFlO5LEbcCGXPbdeRap1fecXulQreg==",
+      "path": "fastcoloredtextbox.net6/1.0.0",
+      "hashPath": "fastcoloredtextbox.net6.1.0.0.nupkg.sha512"
+    }
+  }
+}
