@@ -51,11 +51,11 @@ Go to the Releases section on GitHub and download the newest build of NoteBox.
 
 Inside the downloaded folder, you will find:
 
-- NoteBox.exe
+- test.exe
 
-- NoteBox.dll
+- test.dll
 
-- NoteBox.deps.json
+- test.deps.json
 
 - logo.png
 
