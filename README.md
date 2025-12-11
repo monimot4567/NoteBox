@@ -12,6 +12,18 @@
 
 ---
 
+## NoteBox 2.0 has been released! 🎉
+
+Whats New?:
+
+- **Tab Character Support 💬**
+- **New Button Style (Flat) ▶️**
+- **Open Text File (.txt and .rtf) Feature 📝**
+- **Save Text File with RTF format ✏️**
+- **Mini Notes Feature (supports Ctrl +, Ctrl -, Ctrl 0, Ctrl Z and Ctrl Y) 🗒️**
+- **Tool Tip Feature 💡**
+- **Splash Screen Feature (with "Skip" button) 🧱**
+
 ## ✨ Features
 
 - 🔤 **Text zoom controls**  
